@@ -1,4 +1,4 @@
-name: 'Wait / Sleep'
+name: 'Wait / Sleep - forked'
 description: 'Very simple action to sleep for an amount of time (10s, 2m, etc.)'
 author: 'Jake Jarvis <jake@jarv.is>'
 branding:
